@@ -7,4 +7,4 @@ note to review:
 * I wanted to make this site working, without using any libraries or extensions.
 
 This is made by
-Philip Schiøler
+Pschioeler
